@@ -1,0 +1,36 @@
+.wrap{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap:40px;
+}
+
+.images{
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  gap: 15px ;
+  img{
+    width: 100%;
+    border-radius: 20px;
+    aspect-ratio: 1/1.3;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  div{
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+}
+
+.box{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+
+  > div{
+    &:nth-child(1) {
+
+    }
+  }
+}
