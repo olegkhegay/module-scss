@@ -6,7 +6,7 @@ import Products from '/public/products.json'
 const Category = () => {
   return (
     <>
-        <section className={s.Category}>
+        <section className={s.category}>
             <div className="container">
                 <div className={s.wrapper}>
 

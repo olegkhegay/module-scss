@@ -6,16 +6,18 @@ import Browse from '../components/Browse/Browse'
 import Swiper from '../components/Swiper/Swiper'
 import Footer from '../components/Footer/Footer'
 import Category from '../components/Category/Category'
+import About from '../components/About/About'
 
 const Home = () => {
   return (
     <>
         <Hero/>
         <Brands/>
-        <Category/>
         <Arrivels/>
+        <Category/>
         <Browse/>
         <Swiper/>
+        <About/>
         <Footer/>
     </>
   )

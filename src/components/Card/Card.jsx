@@ -8,7 +8,7 @@ const Card = ({image, name='Soon...', rate='0', price='Нет в наличии'
             <img src={image} alt="" />
             <h3>{name}</h3>
             <img src="" alt="" />
-            <b>{price}</b>
+            <b>{price} сум</b>
         </div>
     </>
   )
