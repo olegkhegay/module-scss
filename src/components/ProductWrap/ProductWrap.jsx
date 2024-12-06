@@ -37,8 +37,8 @@ const ProductWrap = ({ product }) => {
                 <h2>{product.name}</h2>
                 <h3>⭐⭐⭐⭐ 4/5</h3>
                 <div className={s.price}>
-                  <b>{product.price} сум</b>
-                  <s>{Math.floor(product.price * 1.10)} сум</s>
+                  <b>{product.price * count} сум</b>
+                  <s>{Math.floor(product.price * 1.10 * count)} сум</s>
                 </div>
                 <p>This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style.</p>
               </div>
