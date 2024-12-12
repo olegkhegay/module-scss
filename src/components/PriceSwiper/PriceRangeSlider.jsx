@@ -6,6 +6,7 @@ import { styled } from "@mui/material/styles";
 const CustomSlider = styled(Slider)({
   color: "#000", 
   height: 6, 
+  
   "& .MuiSlider-track": {
     border: "none",
   },
@@ -31,7 +32,7 @@ const PriceRangeSlider = () => {
   };
 
   return (
-    <Box sx={{ width: 300, }}>
+    <Box sx={{ width: 300, marginTop: '30px' }}>
       <div
         style={{
           fontWeight: "bold",
