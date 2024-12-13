@@ -4,9 +4,9 @@ import Box from "@mui/material/Box";
 import { styled } from "@mui/material/styles";
 
 const CustomSlider = styled(Slider)({
-  color: "#000", 
-  height: 6, 
-  
+  color: "#000",
+  height: 6,
+
   "& .MuiSlider-track": {
     border: "none",
   },
@@ -14,25 +14,26 @@ const CustomSlider = styled(Slider)({
     height: 20,
     width: 20,
     backgroundColor: "#000",
-    border: "3px solid #fff", 
+    border: "3px solid #fff",
     "&:focus, &:hover, &.Mui-active": {
       boxShadow: "0px 0px 0px 8px rgba(0, 0, 0, 0.16)",
     },
   },
   "& .MuiSlider-rail": {
-    backgroundColor: "#eee", 
+    backgroundColor: "#eee",
   },
 });
 
-const PriceRangeSlider = () => {
-  const [value, setValue] = useState([50, 200]);
+const PriceRangeSlider = ({ onChange }) => {
+  const [value, setValue] = useState([0, 30000000]);
 
   const handleChange = (event, newValue) => {
     setValue(newValue);
+    onChange(newValue); // Передача выбранного диапазона цен в родительский компонент
   };
 
   return (
-    <Box sx={{ width: 300, marginTop: '30px' }}>
+    <Box sx={{ width: 300, marginTop: "30px" }}>
       <div
         style={{
           fontWeight: "bold",
@@ -48,7 +49,7 @@ const PriceRangeSlider = () => {
         onChange={handleChange}
         valueLabelDisplay="off"
         min={0}
-        max={500}
+        max={3000000}
       />
       <div
         style={{

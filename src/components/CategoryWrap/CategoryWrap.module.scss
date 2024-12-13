@@ -1,3 +1,9 @@
+.categorywrap{
+  border: 1px solid #0000001A;
+  border-radius: 20px;
+  padding: 20px;
+}
+
 .wrap{
   display: grid;
   grid-template-columns: 1fr 3fr;
@@ -167,6 +173,10 @@
 .style {
   padding-top: 30px;
   .style__title {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
     h3 {
       font-size: 20px;
       font-weight: 700;
@@ -181,6 +191,14 @@
       color: #00000099;
       font-size: 16px;
       font-weight: 400;
+    }
+
+    button{
+       background-color: black;
+       color: white;
+       padding: 14px 87px;
+       border-radius: 15px;
+       margin-top: 10px;
     }
   }
 }

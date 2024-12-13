@@ -5,10 +5,24 @@ import { useState } from "react";
 import Card from "../Card/Card";
 import Products from "/public/products.json";
 import { Link } from "react-router-dom";
+import Clothes from "../Clothes/Clothes";
 
 const CategoryWrap = () => {
   const [selectedColor, setSelectedColor] = useState(null);
   const [selectedSize, setSelectedSize] = useState(null);
+
+  const [selectedCategory, setSelectedCategory] = useState(null);
+  const [priceRange, setPriceRange] = useState([0, 1500]);
+
+  // Фильтрация товаров по категории и диапазону цен
+  const filteredProducts = Products.filter((product) => {
+    const matchesCategory = selectedCategory
+      ? product.special === selectedCategory
+      : true;
+    const matchesPrice =
+      product.price >= priceRange[0] && product.price <= priceRange[1];
+      return matchesCategory && matchesPrice;
+  });
 
   const colors = [
     { id: 1, color: "#00C12B" },
@@ -34,28 +48,9 @@ const CategoryWrap = () => {
                 <img src="" alt="" />
               </div>
 
-              <div className={s.clothes}>
-                <h4>
-                  T-shirts <img src="/more.svg" alt="" />{" "}
-                </h4>
-                <h4>
-                  Shorts <img src="/more.svg" alt="" />{" "}
-                </h4>
-                <h4>
-                  Shirts
-                  <img src="/more.svg" alt="" />{" "}
-                </h4>
-                <h4>
-                  Hoodie
-                  <img src="/more.svg" alt="" />{" "}
-                </h4>
-                <h4>
-                  Jeans
-                  <img src="/more.svg" alt="" />{" "}
-                </h4>
-              </div>
+              <Clothes onCategorySelect={setSelectedCategory} />
 
-              <PriceRangeSlider />
+              <PriceRangeSlider onChange={setPriceRange} />
 
               <div className={s.colors}>
                 <h3>
@@ -121,18 +116,20 @@ const CategoryWrap = () => {
                   <p>
                     Gym <img src="/more.svg" alt="" />
                   </p>
+
+                  <button>Apply Filter</button>
                 </div>
               </div>
             </div>
 
             <div className={s.products}>
               <div className={s.title}>
-                <h2>Casual</h2>
+                <h2>Filtered Products</h2>
                 <b>Sort by: Most Popular</b>
               </div>
               <section className={s.category}>
                 <div className={s.wrapper__products}>
-                  {Products.slice(0, 9).map((card) => (
+                  {filteredProducts.slice(0, 9).map((card) => (
                     <Link
                       key={card.id}
                       to={`/product/${card.id}`}
@@ -144,8 +141,8 @@ const CategoryWrap = () => {
                         price={card.price}
                       />
                     </Link>
-                    ))}
-                  </div>
+                  ))}
+                </div>
               </section>
 
               <div className={s.swiper}>
@@ -153,8 +150,8 @@ const CategoryWrap = () => {
                 <h3>1</h3>
                 <button className={s.left}>→</button>
               </div>
-
             </div>
+
           </div>
         </div>
       </section>

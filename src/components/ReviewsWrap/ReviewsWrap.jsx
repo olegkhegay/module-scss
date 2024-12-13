@@ -1,9 +1,8 @@
 import React from "react";
 import s from "./ReviewsWrap.module.scss";
-import Arrivels from "../Arrivels/Arrivels";
-import TopSelling from "../TopSelling/TopSelling";
-import About from "../About/About";
-import Footer from "../Footer/Footer";
+import Card from "../Card/Card";
+import Products from "/public/products.json";
+import { Link } from "react-router-dom";
 
 const ReviewsWrap = () => {
   return (
@@ -122,52 +121,27 @@ const ReviewsWrap = () => {
             <h1>You might also like</h1>
 
             <div className={s.cards}>
-              <div className={s.card}>
-                <img src="/Frame8.png" alt="" />
-                <p>T-SHIRT WITH TAPE DETAILS</p>
-                <div className={s.marks}>
-                  <img src="/Frame6.svg" alt="" />
-                  <p>4.5/5</p>
+              <section className={s.category}>
+                <div className={s.wrapper__products}>
+                  {Products.slice(4, 8).map((card) => (
+                    <Link
+                      key={card.id}
+                      to={`/product/${card.id}`}
+                      className={s.link}
+                    >
+                      <Card
+                        image={card.image}
+                        name={card.name}
+                        price={card.price}
+                      />
+                    </Link>
+                  ))}
                 </div>
-                <div className={s.price}>
-                  <h4>$212</h4>
-                  <s>$232</s>
-                  <p>-20%</p>
-                </div>
-              </div>
-              <div className={s.card}>
-                <img src="/Frame9.png" alt="" />
-                <p>SKINNY FIT JEANS</p>
-                <div className={s.marks}>
-                  <img src="/Frame7.svg" alt="" />
-                  <p>3.5/5</p>
-                </div>
-                <h4>$145</h4>
-              </div>
-              <div className={s.card}>
-                <img src="/Frame10.png" alt="" />
-                <p>CHECKERED SHIRT</p>
-                <div className={s.marks}>
-                  <img src="/Frame5.svg" alt="" />
-                  <p>4.5/5</p>
-                </div>
-                <h4>$80</h4>
-              </div>
-              <div className={s.card}>
-                <img src="/Frame11.png" alt="" />
-                <p>SLEEVE STRIPED T-SHIRT</p>
-                <div className={s.marks}>
-                  <img src="/Frame6.svg" alt="" />
-                  <p>4.5/5</p>
-                </div>
-                <h4>$80</h4>
-              </div>
+              </section>
             </div>
           </section>
         </div>
-
       </section>
-      
     </>
   );
 };
