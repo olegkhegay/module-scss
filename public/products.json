@@ -1,4 +1,3 @@
-
 [
     {
         "id": 420,
@@ -6,7 +5,7 @@
         "price": 390000,
         "discount": 0,
         "image": "https://www.alibimenstyle.uz/storage/products//bMRGzZcgsDEjOCgs5f7gdAzf8qWrfaDrT3etMEph.jpg",
-        "special": "Hoodie"
+        "special": "T-shirts"
     },
     {
         "id": 288,
@@ -14,7 +13,7 @@
         "price": 70000,
         "discount": 0,
         "image": "https://www.alibimenstyle.uz/storage/products//1Os1kUEKM2vYEVJgZGCPwWDs0ylNFSCrePCMpbcl.jpg",
-        "special": "Shorts"
+        "special": "Accessories"
     },
     {
         "id": 637,
@@ -26,7 +25,7 @@
     },
     {
         "id": 634,
-        "name": "Oversized two piece ",
+        "name": "Oversized two piece",
         "price": 1050000,
         "discount": 0,
         "image": "https://www.alibimenstyle.uz/storage/01J5XD16V4KWWB2X948CZE20BA.jpg",
@@ -38,15 +37,15 @@
         "price": 590000,
         "discount": 0,
         "image": "https://www.alibimenstyle.uz/storage/01J6M6Z0THW70EKAE3EHPCRQZ2.jpg",
-        "special": "Jeans"
+        "special": "Hoodie"
     },
     {
         "id": 654,
-        "name": "FOG ",
+        "name": "FOG",
         "price": 790000,
         "discount": 0,
         "image": "https://www.alibimenstyle.uz/storage/01J6J0H4B4Y5M8205QB99AH9F9.png",
-        "special": "Shorts"
+        "special": "Hoodie"
     },
     {
         "id": 259,
@@ -70,7 +69,7 @@
         "price": 1090000,
         "discount": 0,
         "image": "https://www.alibimenstyle.uz/storage/01J6PG4HY61H1H1H8WMGJQ8YPC.jpg",
-        "special": "T-shirts"
+        "special": "Hoodie"
     },
     {
         "id": 276,
@@ -102,7 +101,7 @@
         "price": 390000,
         "discount": 0,
         "image": "https://www.alibimenstyle.uz/storage/products//xsb0qlUM73uw8bVCJ4wBcRaHP3jojlqRRfcSmGGv.jpg",
-        "special": "T-shirts"
+        "special": "Jeans"
     },
     {
         "id": 420,
@@ -118,7 +117,7 @@
         "price": 1140000,
         "discount": 0,
         "image": "https://www.alibimenstyle.uz/storage/products//PR5MjhinChC0OdqBNorCoGXBNNfW2Ynaz4TyzZi2.jpg",
-        "special": "Shorts"
+        "special": "Hoodie"
     },
     {
         "id": 625,
@@ -201,13 +200,1339 @@
         "special": "Jeans"
     },
     {
+        "id": 663,
+        "name": "ESSENTIALS SWEETSHIRT color Gray",
+        "price": 690000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6KVXMCKWD2TFJK2BNXRKN7D.png",
+        "special": "Hoodie"
+    },
+    {
+        "id": 660,
+        "name": "ESSENTIALS SWEETSHIRT color BLACK",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6KQGNHAY9ATDT04B0SC84W6.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 624,
+        "name": "Denim boyfriend Jeans - color blue",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5X66ETW5SM6WDFM84VEZAAM.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 645,
+        "name": "Nike Blazer Mid '77",
+        "price": 720000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J61E8JNH9ZADMXE3CSXVC8N5.webp",
+        "special": "Shoes"
+    },
+    {
+        "id": 436,
+        "name": "ХУДИ НА ЗАМКЕ",
+        "price": 590000,
+        "discount": 390000,
+        "image": "https://www.alibimenstyle.uz/storage/products//ObqJjXEEWeYsGUGfawPSaDpt5NgpoFQR9AzVwbWQ.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 458,
+        "name": "THUNDERBOLD",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//dpajMIWnB7Y1mTH1KBIf17Cjh9Np9kk5gN833xBS.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 226,
+        "name": "Пальто",
+        "price": 1250000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//mrP8xptcqYaNX4ONLWzfyCH75GFb2raEl41TuL0m.png",
+        "special": "Hoodie"
+    },
+    {
+        "id": 681,
+        "name": "Oversized two piece REPRESENT - color black",
+        "price": 1180000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M43EG1PJ4KBSPR82YNGZR9.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 669,
+        "name": "ESSENTIALS SWEETSHIRT color Beige",
+        "price": 690000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6KYKFNC488BSQ4QYBTHQVXK.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 654,
+        "name": "FOG",
+        "price": 790000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6J0H4B4Y5M8205QB99AH9F9.png",
+        "special": "Hoodie"
+    },
+    {
+        "id": 536,
+        "name": "БОЙФРЕНД",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//lXowc10Z4mZiFd5njmMdWf9Z461LdS3MKCODCTwN.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 627,
+        "name": "Denim Americano - color whitish blue",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5X7HHM8DF17773R2ZJHZ25A.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 539,
+        "name": "ФУТБОЛКА МАСКА",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//f2HvsJ69vvg7ecvMvTDFtDKF30HL6chiGZleVOBz.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 643,
+        "name": "Nike Air Force 1 '07",
+        "price": 720000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J61D1T56QZ7VSPDFEPMFW039.webp",
+        "special": "Shoes"
+    },
+    {
+        "id": 619,
+        "name": "Jogers",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5WMNRFEKSFEY5E3FY1T1GD1.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 517,
+        "name": "ШИРОКИЕ БРЮКИ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//qQIbBwWN9UQBFs40kqHNVgopK1jR7P4ofcWaSlh0.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 525,
+        "name": "Двойка DROP24",
+        "price": 1140000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//PR5MjhinChC0OdqBNorCoGXBNNfW2Ynaz4TyzZi2.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 491,
+        "name": "скрудж макдак",
+        "price": 290000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//PvdUGOLfeWDsiFoZAednGEPLQlQ2Sc9plA00od8W.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 222,
+        "name": "Свитшот",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//aR4fVR2J6DveL9VCbvoT5X9wp0tqeu8FuJHfeBpr.png",
+        "special": "Hoodie"
+    },
+    {
+        "id": 627,
+        "name": "Denim Americano - color whitish blue",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5X7HHM8DF17773R2ZJHZ25A.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 626,
+        "name": "Denim Americano - color Blue",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5X73MK95W18W842TJBQ4STB.jpg",
+        "special": "Jeans"
+    },
+    {
         "id": 602,
         "name": "CROPPED LEATHER JACKET",
         "price": 940000,
         "discount": 0,
         "image": "https://www.alibimenstyle.uz/storage/01J3JM21Z8ZYNGVDJ3YRVA1YA6.jpg",
         "special": "Hoodie"
+    },
+    {
+        "id": 620,
+        "name": "Jogers",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5WNCV9PFHH4HHHWGFS4RDWE.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 498,
+        "name": "ПОЛУКЛАССИКА NEW 2024",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//X9ti7ijxaTcZDspj4Y9y8Pra7q0VqzTzSJLKUmoA.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 285,
+        "name": "Кольцо",
+        "price": 70000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//Q8o6iKDUlaTkcZfcjlvjqI4EICIc3UgOOCQ337yw.jpg",
+        "special": "Accessories"
+    },
+    {
+        "id": 669,
+        "name": "ESSENTIALS SWEETSHIRT color Beige",
+        "price": 690000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6KYKFNC488BSQ4QYBTHQVXK.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 603,
+        "name": "Dealer 03",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J404MTH2697RQHRYYFGGX549.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 637,
+        "name": "Sweatshirt with collar - island",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5YWV08EYW9T6BQZASF4ZCN2.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 300,
+        "name": "Штаны от Essentials",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//x8w3hTbzODwMaBdd7xfAvyExgqn9C1AihAR1OwhZ.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 698,
+        "name": "Oversized hoodie GAP - color Gray",
+        "price": 690000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6PJ3P7X6Y7N75XXFHPVPPTS.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 694,
+        "name": "Loose joggers",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6PGD79KV659A2M4VVYSXJ13.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 467,
+        "name": "ДЖИНСЫ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//OdzaAqgqtv4u3V5csXr86LhzvNZAppFA4VmIBJ7E.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 657,
+        "name": "ESSENTIALS HOODIE color BEIGE",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6KMG5FV8PVA5K7CQSZD3N3E.png",
+        "special": "Hoodie"
+    },
+    {
+        "id": 624,
+        "name": "Denim boyfriend Jeans - color blue",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5X66ETW5SM6WDFM84VEZAAM.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 528,
+        "name": "2PAC СВИТШОТ",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//HwygyOeTzkRlS34x1G3pUAy4QYxUvKTaedy3vkQX.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 421,
+        "name": "ОВЕРСАЙЗ ФУТБОЛКА",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//atiXLrvpHxxyMPWpA6B0UeQZYl4eeLvjepFbxmEN.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 539,
+        "name": "ФУТБОЛКА МАСКА",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//f2HvsJ69vvg7ecvMvTDFtDKF30HL6chiGZleVOBz.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 614,
+        "name": "Sleeveless ash color - gray",
+        "price": 790000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5TQ1ZZEQX44SDHNG33YFR92.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 463,
+        "name": "СВОБОДНЫЕ ДЖИНСЫ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//63ybeIGpFGYmYuxy4MkJ4ecqkYCJfUzqYLzqihmr.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 633,
+        "name": "Oversized sweatshirt - Saints color Beige",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5XCPF7XWND7XSQVX6825V2B.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 598,
+        "name": "Бойфренд",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J1CVKSPEZEKKQ6NQ2C0DYJ2Y.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 258,
+        "name": "Худи",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//digDJ76QoLvdJ8YSwgpmo5Uw759hCWfjU9FuG0ga.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 408,
+        "name": "ШИРОКИЕ ДЖИНСЫ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//qmdxwzFisDXNJqEyUGJefWl6xJbkwXtKBOXCbOwM.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 639,
+        "name": "Jogers - island black",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5YXKGW9NGQENTQZXMK79SVB.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 224,
+        "name": "Пальто",
+        "price": 1250000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//CyHMYfXIBcO3odgB7WLOI3hs8qtxje0IJhdl7AzQ.png",
+        "special": "Hoodie"
+    },
+    {
+        "id": 659,
+        "name": "ESSENTIALS HOODIE color BROWN",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6KQA1JPGWNZ7C6VBPEJ65DV.png",
+        "special": "Hoodie"
+    },
+    {
+        "id": 494,
+        "name": "WEEKND",
+        "price": 350000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//cerRDdY3r37k4fMKvz46g02Jc34R3WwpTFwZAm9s.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 489,
+        "name": "2PAC",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//MnQeegtAdJhiNImgwclK9iOR0jWL9HLdPxXDMewT.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 630,
+        "name": "Sweatshirt plain - color black",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5XBH9BNCC6JDKXP1S1FCMMV.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 677,
+        "name": "Oversized pants REPRESENT - color Black",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M2RFNEXHFEMM7Y54QM0NC7.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 440,
+        "name": "ДЖИНСЫ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//hVaOmWJRXIMpPFxCUHaJPe85Kct3pvnd5G1cOdJX.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 617,
+        "name": "Denim hoodie",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5TS4FZETHEB402DKWMCD857.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 462,
+        "name": "БАЗОВАЯ ФУТБОЛКА",
+        "price": 350000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//prn0uxcCQbhIdV9qjuf9NAKeJDuwUvKdh3MX8pL7.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 421,
+        "name": "ОВЕРСАЙЗ ФУТБОЛКА",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//atiXLrvpHxxyMPWpA6B0UeQZYl4eeLvjepFbxmEN.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 526,
+        "name": "ДЖОГГЕР",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//zS99Qo1peDnpRclYFkBH3c8tPyzebyBzl4YPv7LZ.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 300,
+        "name": "Штаны от Essentials",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//x8w3hTbzODwMaBdd7xfAvyExgqn9C1AihAR1OwhZ.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 408,
+        "name": "ШИРОКИЕ ДЖИНСЫ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//qmdxwzFisDXNJqEyUGJefWl6xJbkwXtKBOXCbOwM.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 664,
+        "name": "ESSENTIALS SWEETSHIRT color Brown",
+        "price": 690000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6KWCECBDMB2NRYW5X4Y6J6P.png",
+        "special": "Hoodie"
+    },
+    {
+        "id": 545,
+        "name": "ДЖИНСЫ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//AbluUoohY4YVkQ9HTTSmhbMMgNdojnI9rGylnsRD.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 645,
+        "name": "Nike Blazer Mid '77",
+        "price": 720000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J61E8JNH9ZADMXE3CSXVC8N5.webp",
+        "special": "Shoes"
+    },
+    {
+        "id": 286,
+        "name": "Кольцо",
+        "price": 70000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//GeNIPv0yfAFWpnW31kqsKzKcdkXpVC7sbwJxIfBJ.jpg",
+        "special": "Accessories"
+    },
+    {
+        "id": 676,
+        "name": "Oversized pants REPRESENT - color Gray",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M24J7ZZQ1J1TV09XNMTMG4.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 655,
+        "name": "DENIM LOUNGE PANT",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6J9KPJRG1S0D21EP01HNS07.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 630,
+        "name": "Sweatshirt plain - color black",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5XBH9BNCC6JDKXP1S1FCMMV.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 458,
+        "name": "THUNDERBOLD",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//dpajMIWnB7Y1mTH1KBIf17Cjh9Np9kk5gN833xBS.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 459,
+        "name": "ELUCAD",
+        "price": 350000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//MJCAFWtKvvDb5vSzA1tpd4zHukUuYckxWVk3iJfm.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 618,
+        "name": "Semi-classical trousers with zipper",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5TSQGT3P9ZA7AH8EQ8CF69D.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 690,
+        "name": "Oversized two piece - color Gray",
+        "price": 1090000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M8TFP61CVPKAPD6Y2P9GZA.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 226,
+        "name": "Пальто",
+        "price": 1250000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//mrP8xptcqYaNX4ONLWzfyCH75GFb2raEl41TuL0m.png",
+        "special": "Hoodie"
+    },
+    {
+        "id": 657,
+        "name": "ESSENTIALS HOODIE color BEIGE",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6KMG5FV8PVA5K7CQSZD3N3E.png",
+        "special": "Hoodie"
+    },
+    {
+        "id": 211,
+        "name": "Джинсы",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//JNi3FudlSmERlNhEMnNz8JDbCNw4vIkLjRRLgArU.png",
+        "special": "Jeans"
+    },
+    {
+        "id": 694,
+        "name": "Loose joggers",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6PGD79KV659A2M4VVYSXJ13.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 491,
+        "name": "скрудж макдак",
+        "price": 290000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//PvdUGOLfeWDsiFoZAednGEPLQlQ2Sc9plA00od8W.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 460,
+        "name": "1977",
+        "price": 350000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//fSvHH01RammkZfSBhQJEL4Uhd24Q1XDYwzUSOOIp.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 628,
+        "name": "Warm shirt - color Red",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5XAW6TJRB5JRCH4WBKP3QDD.jpg",
+        "special": "Shirts"
+    },
+    {
+        "id": 697,
+        "name": "Oversized hoodie GAP - color Brown",
+        "price": 690000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6PHTFW4Z1CVFRJHZVAN81JP.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 617,
+        "name": "Denim hoodie",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5TS4FZETHEB402DKWMCD857.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 679,
+        "name": "Oversized hoodie REPRESENT - color Gray",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M3EYKBCA0J5G2WJKFS3A5V.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 287,
+        "name": "Кольцо",
+        "price": 70000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//AzoHjtAkPVw8JfGadqZhCSEdBV35cKqjHwxgjGJB.jpg",
+        "special": "Accessories"
+    },
+    {
+        "id": 642,
+        "name": "Nike Dunk Low",
+        "price": 720000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J61CW1FXYEVHDEBGTPFNJAXY.webp",
+        "special": "Shoes"
+    },
+    {
+        "id": 413,
+        "name": "СВИТШОТ СЕТОЧНЫЙ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//e874sCfwbuXliPcNXIdjHZ3vDvpgs2PdV4xWhxyy.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 412,
+        "name": "РУБАШКА ОВЕРСАЙЗ",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//qQdrmS3E7YiMJ6UcsaF7eoUmQ4ITpBoRHyDHpfmO.jpg",
+        "special": "Shirts"
+    },
+    {
+        "id": 601,
+        "name": "NEW двойка",
+        "price": 1200000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J33DCXDDRTFHFC86B411G9Z1.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 425,
+        "name": "ОВЕРСАЙЗ ФУТБОЛКА",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//sSzdqp4d1BxULsnW6Uwj4DaWxRmVMVdnzxlF9PWu.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 599,
+        "name": "Сумка Essentials",
+        "price": 450000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J33CRTJ72YXC6TSRW9RBYVC3.jpg",
+        "special": "Accessories"
+    },
+    {
+        "id": 472,
+        "name": "БОМБЕР",
+        "price": 590000,
+        "discount": 300000,
+        "image": "https://www.alibimenstyle.uz/storage/products//U3Vw95KTRNoAD6kELptZuiakk6UPd4PjtdrdCa17.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 489,
+        "name": "2PAC",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//MnQeegtAdJhiNImgwclK9iOR0jWL9HLdPxXDMewT.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 421,
+        "name": "ОВЕРСАЙЗ ФУТБОЛКА",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//atiXLrvpHxxyMPWpA6B0UeQZYl4eeLvjepFbxmEN.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 499,
+        "name": "НОВЫЕ СВОБОДНЫЕ ДЖИНСЫ",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//xxv8m5jdqVgGCGzC1jMKA4RMe1VAAeIdzwJQanHg.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 695,
+        "name": "Oversized jacket",
+        "price": 990000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6PH9WHXK2FRB4ETKR5G7Q5Q.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 432,
+        "name": "ДЖИНСЫ СВОБОДНЫЕ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//aEsxkMCWo0U14Dtt80jSMBszmNu2CvFBruAPntE8.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 687,
+        "name": "Oversized hoodie ZIP Denim - color Black",
+        "price": 690000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M7E1W4RPZDNDGQJ48818JZ.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 517,
+        "name": "ШИРОКИЕ БРЮКИ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//qQIbBwWN9UQBFs40kqHNVgopK1jR7P4ofcWaSlh0.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 284,
+        "name": "Кольцо",
+        "price": 70000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//GeNIPv0yfAFWpnW31kqsKzKcdkXpVC7sbwJxIfBJ.jpg",
+        "special": "Accessories"
+    },
+    {
+        "id": 676,
+        "name": "Oversized pants REPRESENT - color Gray",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M24J7ZZQ1J1TV09XNMTMG4.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 655,
+        "name": "DENIM LOUNGE PANT",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6J9KPJRG1S0D21EP01HNS07.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 630,
+        "name": "Sweatshirt plain - color black",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5XBH9BNCC6JDKXP1S1FCMMV.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 458,
+        "name": "THUNDERBOLD",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//dpajMIWnB7Y1mTH1KBIf17Cjh9Np9kk5gN833xBS.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 459,
+        "name": "ELUCAD",
+        "price": 350000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//MJCAFWtKvvDb5vSzA1tpd4zHukUuYckxWVk3iJfm.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 618,
+        "name": "Semi-classical trousers with zipper",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5TSQGT3P9ZA7AH8EQ8CF69D.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 690,
+        "name": "Oversized two piece - color Gray",
+        "price": 1090000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M8TFP61CVPKAPD6Y2P9GZA.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 226,
+        "name": "Пальто",
+        "price": 1250000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//mrP8xptcqYaNX4ONLWzfyCH75GFb2raEl41TuL0m.png",
+        "special": "Hoodie"
+    },
+    {
+        "id": 657,
+        "name": "ESSENTIALS HOODIE color BEIGE",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6KMG5FV8PVA5K7CQSZD3N3E.png",
+        "special": "Hoodie"
+    },
+    {
+        "id": 211,
+        "name": "Джинсы",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//JNi3FudlSmERlNhEMnNz8JDbCNw4vIkLjRRLgArU.png",
+        "special": "Jeans"
+    },
+    {
+        "id": 694,
+        "name": "Loose joggers",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6PGD79KV659A2M4VVYSXJ13.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 491,
+        "name": "скрудж макдак",
+        "price": 290000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//PvdUGOLfeWDsiFoZAednGEPLQlQ2Sc9plA00od8W.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 460,
+        "name": "1977",
+        "price": 350000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//fSvHH01RammkZfSBhQJEL4Uhd24Q1XDYwzUSOOIp.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 628,
+        "name": "Warm shirt - color Red",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5XAW6TJRB5JRCH4WBKP3QDD.jpg",
+        "special": "Shirts"
+    },
+    {
+        "id": 697,
+        "name": "Oversized hoodie GAP - color Brown",
+        "price": 690000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6PHTFW4Z1CVFRJHZVAN81JP.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 617,
+        "name": "Denim hoodie",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5TS4FZETHEB402DKWMCD857.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 679,
+        "name": "Oversized hoodie REPRESENT - color Gray",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M3EYKBCA0J5G2WJKFS3A5V.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 287,
+        "name": "Кольцо",
+        "price": 70000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//AzoHjtAkPVw8JfGadqZhCSEdBV35cKqjHwxgjGJB.jpg",
+        "special": "Accessories"
+    },
+    {
+        "id": 642,
+        "name": "Nike Dunk Low",
+        "price": 720000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J61CW1FXYEVHDEBGTPFNJAXY.webp",
+        "special": "Shoes"
+    },
+    {
+        "id": 413,
+        "name": "СВИТШОТ СЕТОЧНЫЙ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//e874sCfwbuXliPcNXIdjHZ3vDvpgs2PdV4xWhxyy.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 412,
+        "name": "РУБАШКА ОВЕРСАЙЗ",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//qQdrmS3E7YiMJ6UcsaF7eoUmQ4ITpBoRHyDHpfmO.jpg",
+        "special": "Shirts"
+    },
+    {
+        "id": 601,
+        "name": "NEW двойка",
+        "price": 1200000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J33DCXDDRTFHFC86B411G9Z1.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 425,
+        "name": "ОВЕРСАЙЗ ФУТБОЛКА",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//sSzdqp4d1BxULsnW6Uwj4DaWxRmVMVdnzxlF9PWu.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 599,
+        "name": "Сумка Essentials",
+        "price": 450000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J33CRTJ72YXC6TSRW9RBYVC3.jpg",
+        "special": "Accessories"
+    },
+    {
+        "id": 472,
+        "name": "БОМБЕР",
+        "price": 590000,
+        "discount": 300000,
+        "image": "https://www.alibimenstyle.uz/storage/products//U3Vw95KTRNoAD6kELptZuiakk6UPd4PjtdrdCa17.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 489,
+        "name": "2PAC",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//MnQeegtAdJhiNImgwclK9iOR0jWL9HLdPxXDMewT.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 421,
+        "name": "ОВЕРСАЙЗ ФУТБОЛКА",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//atiXLrvpHxxyMPWpA6B0UeQZYl4eeLvjepFbxmEN.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 499,
+        "name": "НОВЫЕ СВОБОДНЫЕ ДЖИНСЫ",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//xxv8m5jdqVgGCGzC1jMKA4RMe1VAAeIdzwJQanHg.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 695,
+        "name": "Oversized jacket",
+        "price": 990000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6PH9WHXK2FRB4ETKR5G7Q5Q.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 432,
+        "name": "ДЖИНСЫ СВОБОДНЫЕ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//aEsxkMCWo0U14Dtt80jSMBszmNu2CvFBruAPntE8.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 687,
+        "name": "Oversized hoodie ZIP Denim - color Black",
+        "price": 690000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M7E1W4RPZDNDGQJ48818JZ.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 517,
+        "name": "ШИРОКИЕ БРЮКИ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//qQIbBwWN9UQBFs40kqHNVgopK1jR7P4ofcWaSlh0.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 284,
+        "name": "Кольцо",
+        "price": 70000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//GeNIPv0yfAFWpnW31kqsKzKcdkXpVC7sbwJxIfBJ.jpg",
+        "special": "Accessories"
+    },
+    {
+        "id": 676,
+        "name": "Oversized pants REPRESENT - color Gray",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M24J7ZZQ1J1TV09XNMTMG4.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 655,
+        "name": "DENIM LOUNGE PANT",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6J9KPJRG1S0D21EP01HNS07.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 630,
+        "name": "Sweatshirt plain - color black",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5XBH9BNCC6JDKXP1S1FCMMV.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 458,
+        "name": "THUNDERBOLD",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//dpajMIWnB7Y1mTH1KBIf17Cjh9Np9kk5gN833xBS.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 459,
+        "name": "ELUCAD",
+        "price": 350000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//MJCAFWtKvvDb5vSzA1tpd4zHukUuYckxWVk3iJfm.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 618,
+        "name": "Semi-classical trousers with zipper",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5TSQGT3P9ZA7AH8EQ8CF69D.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 690,
+        "name": "Oversized two piece - color Gray",
+        "price": 1090000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M8TFP61CVPKAPD6Y2P9GZA.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 226,
+        "name": "Пальто",
+        "price": 1250000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//mrP8xptcqYaNX4ONLWzfyCH75GFb2raEl41TuL0m.png",
+        "special": "Hoodie"
+    },
+    {
+        "id": 657,
+        "name": "ESSENTIALS HOODIE color BEIGE",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6KMG5FV8PVA5K7CQSZD3N3E.png",
+        "special": "Hoodie"
+    },
+    {
+        "id": 211,
+        "name": "Джинсы",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//JNi3FudlSmERlNhEMnNz8JDbCNw4vIkLjRRLgArU.png",
+        "special": "Jeans"
+    },
+    {
+        "id": 694,
+        "name": "Loose joggers",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6PGD79KV659A2M4VVYSXJ13.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 491,
+        "name": "скрудж макдак",
+        "price": 290000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//PvdUGOLfeWDsiFoZAednGEPLQlQ2Sc9plA00od8W.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 460,
+        "name": "1977",
+        "price": 350000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//fSvHH01RammkZfSBhQJEL4Uhd24Q1XDYwzUSOOIp.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 628,
+        "name": "Warm shirt - color Red",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5XAW6TJRB5JRCH4WBKP3QDD.jpg",
+        "special": "Shirts"
+    },
+    {
+        "id": 697,
+        "name": "Oversized hoodie GAP - color Brown",
+        "price": 690000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6PHTFW4Z1CVFRJHZVAN81JP.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 617,
+        "name": "Denim hoodie",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5TS4FZETHEB402DKWMCD857.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 679,
+        "name": "Oversized hoodie REPRESENT - color Gray",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M3EYKBCA0J5G2WJKFS3A5V.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 287,
+        "name": "Кольцо",
+        "price": 70000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//AzoHjtAkPVw8JfGadqZhCSEdBV35cKqjHwxgjGJB.jpg",
+        "special": "Accessories"
+    },
+    {
+        "id": 642,
+        "name": "Nike Dunk Low",
+        "price": 720000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J61CW1FXYEVHDEBGTPFNJAXY.webp",
+        "special": "Shoes"
+    },
+    {
+        "id": 413,
+        "name": "СВИТШОТ СЕТОЧНЫЙ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//e874sCfwbuXliPcNXIdjHZ3vDvpgs2PdV4xWhxyy.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 412,
+        "name": "РУБАШКА ОВЕРСАЙЗ",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//qQdrmS3E7YiMJ6UcsaF7eoUmQ4ITpBoRHyDHpfmO.jpg",
+        "special": "Shirts"
+    },
+    {
+        "id": 601,
+        "name": "NEW двойка",
+        "price": 1200000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J33DCXDDRTFHFC86B411G9Z1.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 425,
+        "name": "ОВЕРСАЙЗ ФУТБОЛКА",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//sSzdqp4d1BxULsnW6Uwj4DaWxRmVMVdnzxlF9PWu.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 599,
+        "name": "Сумка Essentials",
+        "price": 450000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J33CRTJ72YXC6TSRW9RBYVC3.jpg",
+        "special": "Accessories"
+    },
+    {
+        "id": 472,
+        "name": "БОМБЕР",
+        "price": 590000,
+        "discount": 300000,
+        "image": "https://www.alibimenstyle.uz/storage/products//U3Vw95KTRNoAD6kELptZuiakk6UPd4PjtdrdCa17.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 489,
+        "name": "2PAC",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//MnQeegtAdJhiNImgwclK9iOR0jWL9HLdPxXDMewT.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 421,
+        "name": "ОВЕРСАЙЗ ФУТБОЛКА",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//atiXLrvpHxxyMPWpA6B0UeQZYl4eeLvjepFbxmEN.jpg",
+        "special": "T-shirts"
+    },
+    {
+        "id": 499,
+        "name": "НОВЫЕ СВОБОДНЫЕ ДЖИНСЫ",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//xxv8m5jdqVgGCGzC1jMKA4RMe1VAAeIdzwJQanHg.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 695,
+        "name": "Oversized jacket",
+        "price": 990000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6PH9WHXK2FRB4ETKR5G7Q5Q.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 432,
+        "name": "ДЖИНСЫ СВОБОДНЫЕ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//aEsxkMCWo0U14Dtt80jSMBszmNu2CvFBruAPntE8.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 687,
+        "name": "Oversized hoodie ZIP Denim - color Black",
+        "price": 690000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M7E1W4RPZDNDGQJ48818JZ.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 517,
+        "name": "ШИРОКИЕ БРЮКИ",
+        "price": 490000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//qQIbBwWN9UQBFs40kqHNVgopK1jR7P4ofcWaSlh0.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 284,
+        "name": "Кольцо",
+        "price": 70000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/products//GeNIPv0yfAFWpnW31kqsKzKcdkXpVC7sbwJxIfBJ.jpg",
+        "special": "Accessories"
+    },
+    {
+        "id": 676,
+        "name": "Oversized pants REPRESENT - color Gray",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M24J7ZZQ1J1TV09XNMTMG4.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 655,
+        "name": "DENIM LOUNGE PANT",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6J9KPJRG1S0.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 600,
+        "name": "Oversized hoodie GAP - color Beige",
+        "price": 690000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6PH9WHXK2FRB4ETKR5G7Q5Q.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 688,
+        "name": "Sweatshirt loose - color Black",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6M83YWP9MYK37965Y6ZC4NA.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 699,
+        "name": "Daily oversized two piece",
+        "price": 1090000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J6PJHGNR7V6MR6KZ6X861ADP.jpg",
+        "special": "Hoodie"
+    },
+    {
+        "id": 605,
+        "name": "Wide jeans",
+        "price": 390000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J49R71YM8XDMX5VQJP6YZC72.jpg",
+        "special": "Jeans"
+    },
+    {
+        "id": 616,
+        "name": "Denim",
+        "price": 590000,
+        "discount": 0,
+        "image": "https://www.alibimenstyle.uz/storage/01J5TR51AA5RPKRFBRP7348KSD.jpg",
+        "special": "Jeans"
     }
 ]
-
-

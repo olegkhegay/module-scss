@@ -10,7 +10,7 @@ const Arrivels = () => {
             <h2>NEW ARRIVALS</h2>
 
             <div className={s.cards}>
-              <div className={s.card}>
+              <div className={s.card} data-aos="fade-up" data-aos-delay="100">
                 <img src="/Frame1.png" alt="" />
                 <p>T-SHIRT WITH TAPE DETAILS</p>
                 <div className={s.marks}>
@@ -19,7 +19,7 @@ const Arrivels = () => {
                 </div>
                 <h4>$120</h4>
               </div>
-              <div className={s.card}>
+              <div className={s.card} data-aos="fade-up" data-aos-delay="200">
                 <img src="/Frame2.png" alt="" />
                 <p>SKINNY FIT JEANS</p>
                 <div className={s.marks}>
@@ -32,7 +32,7 @@ const Arrivels = () => {
                   <p>-20%</p>
                 </div>
               </div>
-              <div className={s.card}>
+              <div className={s.card} data-aos="fade-up" data-aos-delay="300">
                 <img src="/Frame3.png" alt="" />
                 <p>CHECKERED SHIRT</p>
                 <div className={s.marks}>
@@ -41,7 +41,7 @@ const Arrivels = () => {
                 </div>
                 <h4>$180</h4>
               </div>
-              <div className={s.card}>
+              <div className={s.card} data-aos="fade-up" data-aos-delay="400">
                 <img src="/Frame4.png" alt="" />
                 <p>SLEEVE STRIPED T-SHIRT</p>
                 <div className={s.marks}>
@@ -60,8 +60,6 @@ const Arrivels = () => {
               <button className={s.button}>View All</button>
             </div>
           </div>
-
-          
         </div>
       </section>
     </>

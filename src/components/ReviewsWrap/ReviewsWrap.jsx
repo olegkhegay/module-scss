@@ -123,7 +123,7 @@ const ReviewsWrap = () => {
             <div className={s.cards}>
               <section className={s.category}>
                 <div className={s.wrapper__products}>
-                  {Products.slice(4, 8).map((card) => (
+                  {reviews.slice(4, 8).map((card) => (
                     <Link
                       key={card.id}
                       to={`/product/${card.id}`}
